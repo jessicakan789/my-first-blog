@@ -30,3 +30,4 @@ me = User.objects.get(username='jessica')
 Post.objects.create(author=me, title='Sample title', text='Test')
 post = Post.objects.get(title="Sample title")
 post.publish()
+```
