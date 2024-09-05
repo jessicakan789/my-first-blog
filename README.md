@@ -34,7 +34,7 @@ post.publish()
 
 ## Notes
 
-* my_site is the project
+* mysite is the project
 * blog is the app
 * models.py contains information about each table in the database
 * views.py consists of functions that get the information
